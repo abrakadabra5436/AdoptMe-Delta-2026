@@ -1,0 +1,11 @@
+# Adopt Me Nexus - Exclusions
+*.exe
+*.dll
+*.pdb
+.vs/
+
+# Script Configuration
+/Settings/
+/Webhooks/
+private_key.lua
+debug.log
